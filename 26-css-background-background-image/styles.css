@@ -1,0 +1,7 @@
+.img_section {
+    color: white;
+    text-decoration: underline black;
+    width: fit-content;
+    padding: 10em;
+    background: url("sunset.jpeg");
+}

@@ -1,0 +1,22 @@
+p {
+    border: 2px solid;
+}
+
+.border_red {
+    border-color:  red;
+}
+
+.border_orange {
+    border-color:  orange;
+}
+
+.border_blue {
+    border-color:  #0000ff;
+}
+
+.border_brown_fancy {
+    border-top: 5px dotted crimson;
+    border-left: 3px dashed coral;
+    border-right: 20px solid purple;
+    border-bottom: none;
+}

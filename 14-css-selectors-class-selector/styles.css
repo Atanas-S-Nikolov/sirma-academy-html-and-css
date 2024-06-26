@@ -1,0 +1,14 @@
+.title {
+    margin-left: 200px;
+}
+
+.class_word {
+    font-style: oblique;
+    font-weight: bold;
+    background: linear-gradient(blue, yellow);
+}
+
+.dot {
+    background-color: black;
+    color: greenyellow;
+}

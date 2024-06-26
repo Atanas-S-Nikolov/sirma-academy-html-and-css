@@ -1,0 +1,9 @@
+#terminal_title {
+    text-transform: uppercase;
+}
+
+#terminal {
+    background-color: black;
+    color: greenyellow;
+    padding: 15px 20px;
+}

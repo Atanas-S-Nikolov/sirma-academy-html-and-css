@@ -1,0 +1,15 @@
+p {
+    text-decoration: overline underline;
+}
+
+.center {
+    text-align: center;
+}
+
+.end {
+    text-align: right;
+}
+
+.justify {
+    text-align: justify;
+}

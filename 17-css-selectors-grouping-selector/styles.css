@@ -1,0 +1,17 @@
+span {
+    font-size: 48px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+li {
+    font-size: 36px;
+}
+
+span, .even {
+    color: chocolate;
+}
+
+.odd {
+    background-color: chocolate;
+    width: fit-content;
+}

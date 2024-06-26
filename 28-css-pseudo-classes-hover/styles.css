@@ -1,0 +1,22 @@
+body {
+    display: grid;
+    place-items: center;
+    gap: 10px;
+}
+
+body * {
+    width: fit-content;
+}
+
+a:hover,
+button:hover {
+    height: 50px;
+}
+
+a:hover {
+    background-color: red;
+}
+
+button:hover {
+    width: 200px;
+}

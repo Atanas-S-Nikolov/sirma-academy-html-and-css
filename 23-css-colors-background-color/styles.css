@@ -1,0 +1,12 @@
+.bg_red {
+    background-color:  red;
+}
+
+.bg_green {
+    background-color:  rgb(0, 255, 0);
+}
+
+.bg_blue {
+    background-color:  #0000ff;
+    color: whitesmoke;
+}

@@ -1,0 +1,20 @@
+span.text_purple {
+    color: orchid;
+}
+
+.line_through {
+    text-decoration: line-through;
+}
+
+#bg_wheat {
+    background-color: wheat;
+}
+
+.red_italic {
+    color: red;
+    font-style: italic;
+}
+
+.align_end {
+    text-align: end;
+}

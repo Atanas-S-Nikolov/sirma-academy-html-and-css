@@ -1,0 +1,9 @@
+* {
+    background-color: orange;
+}
+
+#rectangle {
+    background-color: white;
+    height: 100vh;
+    margin: 5rem;
+}
